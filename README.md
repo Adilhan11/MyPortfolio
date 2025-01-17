@@ -18,17 +18,6 @@ Visit the live website: [Adilhan Koçak Portfolio](https://gmt-458-web-gis.githu
   - Contact form
   - Interactive map integration
 
-## 📥 Deployment
-
-This website is hosted using GitHub Pages. To deploy your own version:
-
-1. Fork this repository
-2. Go to your repository's Settings
-3. Navigate to the "Pages" section
-4. Under "Source", select "main" branch
-5. Click "Save"
-6. Your site will be published at `https://<your-username>.github.io/personal-web-page-Adilhan11/`
-
 ## 🛠 Technologies Used
 
 - **Frontend**:
@@ -118,18 +107,7 @@ portfolio-website/
 - Optimized font loading
 - Progressive image loading
 
-## 📄 License
-
-- Font License: SIL Open Font License, 1.1
-- Icons: IconMonstr License
-
 ## 🔗 Contact
-
-For job offers or collaborations, please use the job offer form or contact through:
 - LinkedIn: [Adilhan Koçak](https://www.linkedin.com/in/Adlhan11/)
 - GitHub: [Adilhan11](https://github.com/Adilhan11)
 - Instagram: [@adilhankocakk](https://www.instagram.com/adilhankocakk/)
-
----
-Built with ❤️ by Adilhan Koçak
-```
