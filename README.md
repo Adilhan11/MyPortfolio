@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website built to showcase my professional work, projects and skills in geomatics engineering and software development.
 
+## 🚀 Live Demo
+
+Visit the live website: [Adilhan Koçak Portfolio](https://gmt-458-web-gis.github.io/personal-web-page-Adilhan11/)
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
@@ -13,10 +17,6 @@ A modern, responsive portfolio website built to showcase my professional work, p
   - Statistics counter
   - Contact form
   - Interactive map integration
-
-## 🚀 Live Demo
-
-Visit the live website: [Adilhan Koçak Portfolio](https://gmt-458-web-gis.github.io/personal-web-page-Adilhan11/)
 
 ## 📥 Deployment
 
@@ -131,8 +131,5 @@ For job offers or collaborations, please use the job offer form or contact throu
 - Instagram: [@adilhankocakk](https://www.instagram.com/adilhankocakk/)
 
 ---
-
 Built with ❤️ by Adilhan Koçak
 ```
-
-</rewritten_file>
